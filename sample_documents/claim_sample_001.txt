@@ -1,0 +1,109 @@
+FNOL CLAIM DOCUMENT - SAMPLE 1
+=====================================
+
+DATE: 02/05/2026
+POLICY NUMBER: POL-2024-001234
+CARRIER: SafeCore Insurance
+NAIC CODE: 12345
+
+INSURED INFORMATION
+-------------------
+NAME OF INSURED: John Michael Thompson
+DATE OF BIRTH: 05/15/1980
+MARITAL STATUS: Married
+PRIMARY PHONE #: (555) 123-4567
+HOME E-MAIL ADDRESS: john.thompson@email.com
+
+INSURED'S MAILING ADDRESS:
+Street: 123 Oak Lane
+City, State, Zip: Springfield, IL 62701
+Country: USA
+
+CONTACT INFORMATION
+-------------------
+NAME OF CONTACT: Sarah Thompson
+PRIMARY PHONE #: (555) 123-4568
+CONTACT'S MAILING ADDRESS: 123 Oak Lane, Springfield, IL 62701
+
+LOSS INFORMATION
+----------------
+DATE OF LOSS: 02/03/2026
+TIME OF LOSS: 14:30
+LOCATION OF LOSS: Intersection of Oak Lane and Maple Street, Springfield, IL 62701
+
+POLICE REPORT: Yes
+REPORT NUMBER: 2026-034567
+POLICE DEPARTMENT: Springfield Police Department - Traffic Division
+
+DESCRIPTION OF ACCIDENT:
+Two-vehicle collision at traffic intersection. Insured vehicle was proceeding northbound on Oak Lane, crossing the intersection at Maple Street when struck by westbound vehicle. Impact was on the driver's side (left) of the vehicle. No serious injuries reported. Both vehicles towed from the scene. Weather conditions were clear.
+
+INSURED VEHICLE
+---------------
+Vehicle #: 1
+Year: 2019
+Make: Toyota
+Model: Camry
+Body Type: Sedan
+VIN: 4T1B11HK5KU123456
+Plate Number: ILL-2024-AB
+State: IL
+Owner's Name: John Michael Thompson (Same as Insured)
+
+DAMAGE DESCRIPTION:
+Damage to left side of vehicle including door, quarter panel, and rocker panel damage. Front tire damage from impact. Estimate to be provided by certified auto appraiser.
+
+ESTIMATE AMOUNT: $8,750.00
+
+WHERE CAN VEHICLE BE SEEN: 
+Springfield Auto Salvage & Repair
+1500 Industrial Way, Springfield, IL
+
+WHEN CAN VEHICLE BE SEEN: 
+Business hours: Mon-Fri 8:00 AM - 5:00 PM, Sat 9:00 AM - 1:00 PM
+
+OTHER VEHICLE INFORMATION
+------------------------
+Other Vehicle #: 1
+Year: 2021
+Make: Honda
+Model: Civic
+VIN: 2HGCV54K418123456
+Plate Number: ILL-2025-CD
+State: IL
+
+OTHER VEHICLE OWNER:
+Name: Michael Chen
+Phone: (555) 987-6543
+Address: 456 Maple Street, Springfield, IL 62702
+
+DRIVER INFORMATION
+------------------
+Driver Name: Michael Chen (Other Vehicle)
+Date of Birth: 08/22/1985
+Driver's License Number: I987654321
+State: IL
+Relation to Vehicle Owner: Self
+
+OTHER INSURANCE ON VEHICLE:
+Carrier: AllState Insurance
+Policy Number: AS-2024-654321
+NAIC Code: 54321
+
+WITNESSES
+---------
+Name: Patricia Green
+Address: 789 Oak Lane, Springfield, IL 62701
+Phone: (555) 246-8135
+Age: 62
+
+CLAIM TYPE: Auto Collision
+CLAIM STATUS: Initial Report
+INITIAL ESTIMATE: $8,750.00
+CLAIM REFERENCE: CLM-2026-FNL-001234
+
+ATTACHMENTS: 
+- Police Report
+- Photos from Loss Scene
+- Vehicle Photos
+- Repair Estimate (Pending)

@@ -1,0 +1,41 @@
+FNOL CLAIM DOCUMENT - SAMPLE 3 (INVESTIGATION FLAG)
+====================================================
+
+DATE: 02/07/2026
+POLICY NUMBER: POL-2024-009012 (MISSING - FIELD NOT PROVIDED)
+CARRIER: SafeCore Insurance
+
+INSURED INFORMATION
+-------------------
+NAME OF INSURED: Robert James Mitchell
+PRIMARY PHONE #: (555) 345-6789
+HOME E-MAIL ADDRESS: r.mitchell@email.com
+
+LOSS INFORMATION
+----------------
+DATE OF LOSS: 02/05/2026
+LOCATION OF LOSS: Residential Garage, 999 Elm Street, Detroit, MI 48201
+
+DESCRIPTION OF LOSS:
+Vehicle fire in garage. Claim suggests suspicious circumstances - multiple inconsistent statements from claimant regarding vehicle location at time of fire. Insurance investigator noted staged appearance of incident. Vehicle completely destroyed. Preliminary assessment indicates potential fraud involvement.
+
+INSURED VEHICLE
+---------------
+Year: 2015
+Make: Ford
+Model: Mustang
+Body Type: Coupe
+VIN: 1FA6P8TH5F5123456
+Condition Before Loss: Running condition reported
+
+CLAIM TYPE: Auto - Total Loss
+ESTIMATE AMOUNT: $18,000.00
+
+FRAUD INDICATORS IN DOCUMENT:
+- Inconsistent statements from claimant
+- Staged appearance of loss
+- Suspicious circumstances noted
+
+CLAIM REFERENCE: CLM-2026-FNL-009012
+
+STATUS: Red Flag - Requires Investigation

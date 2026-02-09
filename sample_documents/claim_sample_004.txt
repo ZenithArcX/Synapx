@@ -1,0 +1,44 @@
+FNOL CLAIM DOCUMENT - SAMPLE 4 (INJURY CLAIM)
+==============================================
+
+DATE: 02/07/2026
+POLICY NUMBER: POL-2024-003456
+CARRIER: SafeCore Insurance
+
+INSURED INFORMATION
+-------------------
+NAME OF INSURED: Angela Louise Brooks
+PRIMARY PHONE #: (555) 456-7890
+HOME E-MAIL ADDRESS: a.brooks@email.com
+
+LOSS INFORMATION
+----------------
+DATE OF LOSS: 02/02/2026
+TIME OF LOSS: 10:45 AM
+LOCATION OF LOSS: Retail Shopping Center Parking Lot, Cedar Rapids, IA 52402
+
+DESCRIPTION OF ACCIDENT:
+Multi-vehicle collision in retail parking lot. Insured vehicle struck from behind by delivery truck. Claimant and claimant's family members sustained bodily injuries including whiplash and neck strain. Three passengers transported to Cedar Rapids Medical Center for evaluation.
+
+INSURED VEHICLE
+---------------
+Year: 2020
+Make: Subaru
+Model: Outback
+VIN: 4S4BSANC1L3123456
+
+CLAIM TYPE: Auto Collision with Bodily Injury
+INJURED PARTIES: 3 (Claimant and 2 passengers)
+
+INJURY DETAILS:
+- Claimant: Whiplash, neck strain
+- Passenger 1: Whiplash, back strain
+- Passenger 2: Minor contusions
+
+ESTIMATE AMOUNT: $12,500.00 (Vehicle Damage Only)
+
+MEDICAL CLAIM EXPECTED: Yes, estimated $35,000-$50,000
+
+CLAIM REFERENCE: CLM-2026-FNL-003456
+
+URGENT ACTION REQUIRED: Injury claims require immediate specialist attention for medical review and coordination.

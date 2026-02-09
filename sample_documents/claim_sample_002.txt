@@ -1,0 +1,43 @@
+FNOL CLAIM DOCUMENT - SAMPLE 2
+=====================================
+
+DATE: 02/06/2026
+POLICY NUMBER: POL-2024-005678
+CARRIER: SafeCore Insurance
+
+INSURED INFORMATION
+-------------------
+NAME OF INSURED: Elizabeth Marie Washington
+PRIMARY PHONE #: (555) 234-5678
+HOME E-MAIL ADDRESS: elizabeth.w@email.com
+
+INSURED'S MAILING ADDRESS:
+City, State, Zip: Chicago, IL 60601
+
+LOSS INFORMATION
+----------------
+DATE OF LOSS: 02/04/2026
+TIME OF LOSS: 09:15 AM
+LOCATION OF LOSS: Downtown parking garage, Level 3, Chicago, IL
+
+DESCRIPTION OF ACCIDENT:
+Vehicle damaged in parking garage. Insured vehicle struck by third-party vehicle which failed to remain at scene (hit-and-run incident). Damage to rear bumper and trunk area. Multiple paint transfer marks from other vehicle. No witness information available at time of report.
+
+INSURED VEHICLE
+---------------
+Year: 2022
+Make: BMW
+Model: 3 Series
+Body Type: Sedan
+VIN: WDDHF5KB6M1234567
+Plate Number: ILL-2022-EF
+
+CLAIM TYPE: Auto Collision - Hit and Run
+ESTIMATE AMOUNT: $45,200.00
+
+OTHER VEHICLE: Unknown - Hit and Run Incident
+
+CLAIM REFERENCE: CLM-2026-FNL-005678
+
+ADDITIONAL NOTES:
+Vehicle estimate exceeds $25,000. This is a high-value claim requiring standard review process.

@@ -1,0 +1,30 @@
+FNOL CLAIM DOCUMENT - SAMPLE 5 (INCOMPLETE)
+============================================
+
+DATE: 02/08/2026
+CARRIER: SafeCore Insurance
+
+INSURED INFORMATION
+-------------------
+NAME OF INSURED: David Robert Patterson
+PRIMARY PHONE #: (555) 567-8901
+
+LOSS INFORMATION
+----------------
+DATE OF LOSS: 02/06/2026
+LOCATION OF LOSS: Highway 405, Los Angeles, CA 90001
+
+DESCRIPTION OF ACCIDENT:
+Vehicle involved in single-vehicle accident on highway.
+
+CLAIM TYPE: Auto Accident
+ESTIMATE AMOUNT: $6,800.00
+
+CLAIM REFERENCE: CLM-2026-FNL-012345
+
+INCOMPLETE INFORMATION:
+- Policy Number: NOT PROVIDED
+- Time of Loss: NOT PROVIDED
+- Detailed Location/Address: INCOMPLETE
+- Vehicle Information: INCOMPLETE
+- Detailed Description: INSUFFICIENT

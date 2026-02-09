@@ -1,0 +1,105 @@
+[
+  {
+    "status": "SUCCESS",
+    "document_path": "sample_documents/claim_sample_001.txt",
+    "extractedFields": {
+      "policy_number": "POL-2024-001234",
+      "policyholder_name": "John Michael Thompson",
+      "incident_date": "02/05/2026",
+      "incident_location": "123 Oak Lane",
+      "claimant_name": "Sarah Thompson",
+      "third_party": "INFORMATION",
+      "asset_type": "was proceeding northbound on Oak Lane, crossing the intersection at Maple Street when struck by westbound vehicle. Impact was on the driver's side (left) of the vehicle. No serious injuries reported. Both vehicles towed from the scene. Weather conditions were clear.",
+      "vehicle_vin": "4T1B11HK5KU123456",
+      "vehicle_plate": "ILL",
+      "claim_type": "Auto Collision",
+      "estimated_damage": "8,750.00",
+      "accident_description": "OF ACCIDENT:\nTwo-vehicle collision at traffic intersection. Insured vehicle was proceeding northbound on Oak Lane, crossing the intersection at Maple Street when struck by westbound vehicle. Impact was on the driver's side (left) of the vehicle. No serious injuries reported. Both vehicles towed from the scene. Weather conditions were clear.\n\nINSURED VEHICLE\n---------------\nVehicle #: 1\nYear: 2019\nMake: Toyota\nModel: Camry\nBody Type: Sedan\nVIN: 4T1B11HK5KU123456\nPlate Number: ILL-2024-AB\nState: IL\nOwner's Name: John Michael Thompson (Same as Insured)\n\nDAMAGE DESCRIPTION:\nDamage to left side of vehicle including door, quarter panel, and rocker panel damage. Front tire damage from impact. Estimate to be provided by certified auto appraiser.\n\nESTIMATE AMOUNT: $8,750.00\n\nWHERE CAN VEHICLE BE SEEN: \nSpringfield Auto Salvage & Repair\n1500 Industrial Way, Springfield, IL\n\nWHEN CAN VEHICLE BE SEEN: \nBusiness hours: Mon-Fri 8:00 AM - 5:00 PM, Sat 9:00 AM - 1:00 PM\n\nOTHER VEHICLE INFORMATION\n------------------------\nOther Vehicle #: 1\nYear: 2021\nMake: Honda\nModel: Civic\nVIN: 2HGCV54K418123456\nPlate Number: ILL-2025-CD\nState: IL\n\nOTHER VEHICLE OWNER:\nName: Michael Chen\nPhone: (555) 987-6543\nAddress: 456 Maple Street, Springfield, IL 62702\n\nDRIVER INFORMATION\n------------------\nDriver Name: Michael Chen (Other Vehicle)\nDate of Birth: 08/22/1985\nDriver's License Number: I987654321\nState: IL\nRelation to Vehicle Owner: Self\n\nOTHER INSURANCE ON VEHICLE:\nCarrier: AllState Insurance\nPolicy Number: AS-2024-654321\nNAIC Code: 54321\n\nWITNESSES\n---------\nName: Patricia Green\nAddress: 789 Oak Lane, Springfield, IL 62701\nPhone: (555) 246-8135\nAge: 62\n\nCLAIM TYPE: Auto Collision\nCLAIM STATUS: Initial Report\nINITIAL ESTIMATE: $8,750.00\nCLAIM REFERENCE: CLM-2026-FNL-001234\n\nATTACHMENTS: \n- Police Report\n- Photos from Loss Scene\n- Vehicle Photos\n- Repair Estimate (Pending)"
+    },
+    "missingFields": [],
+    "fraudIndicators": [],
+    "recommendedRoute": "FAST_TRACK",
+    "reasoning": "Low damage amount ($8,750.00 < $25,000). Eligible for expedited processing."
+  },
+  {
+    "status": "SUCCESS",
+    "document_path": "sample_documents/claim_sample_002.txt",
+    "extractedFields": {
+      "policy_number": "POL-2024-005678",
+      "policyholder_name": "Elizabeth Marie Washington",
+      "incident_date": "02/06/2026",
+      "incident_location": "Downtown parking garage",
+      "third_party": ". No witness information available at time of report.",
+      "asset_type": "struck by third-party vehicle which failed to remain at scene (hit-and-run incident). Damage to rear bumper and trunk area. Multiple paint transfer marks from other vehicle. No witness information available at time of report.",
+      "vehicle_vin": "WDDHF5KB6M1234567",
+      "vehicle_plate": "ILL",
+      "claim_type": "Auto Collision - Hit and Run",
+      "estimated_damage": "45,200.00",
+      "accident_description": "OF ACCIDENT:\nVehicle damaged in parking garage. Insured vehicle struck by third-party vehicle which failed to remain at scene (hit-and-run incident). Damage to rear bumper and trunk area. Multiple paint transfer marks from other vehicle. No witness information available at time of report.\n\nINSURED VEHICLE\n---------------\nYear: 2022\nMake: BMW\nModel: 3 Series\nBody Type: Sedan\nVIN: WDDHF5KB6M1234567\nPlate Number: ILL-2022-EF\n\nCLAIM TYPE: Auto Collision - Hit and Run\nESTIMATE AMOUNT: $45,200.00\n\nOTHER VEHICLE: Unknown - Hit and Run Incident\n\nCLAIM REFERENCE: CLM-2026-FNL-005678\n\nADDITIONAL NOTES:\nVehicle estimate exceeds $25,000. This is a high-value claim requiring standard review process."
+    },
+    "missingFields": [],
+    "fraudIndicators": [],
+    "recommendedRoute": "STANDARD_REVIEW",
+    "reasoning": "High damage amount ($45,200.00 >= $25,000). Requires standard review."
+  },
+  {
+    "status": "SUCCESS",
+    "document_path": "sample_documents/claim_sample_003.txt",
+    "extractedFields": {
+      "policy_number": "POL-2024-009012",
+      "policyholder_name": "Robert James Mitchell",
+      "incident_date": "02/07/2026",
+      "incident_location": "Residential Garage",
+      "asset_type": "---------------",
+      "vehicle_vin": "1FA6P8TH5F5123456",
+      "claim_type": "Auto - Total Loss",
+      "estimated_damage": "18,000.00",
+      "accident_description": "OF LOSS:\nVehicle fire in garage. Claim suggests suspicious circumstances - multiple inconsistent statements from claimant regarding vehicle location at time of fire. Insurance investigator noted staged appearance of incident. Vehicle completely destroyed. Preliminary assessment indicates potential fraud involvement.\n\nINSURED VEHICLE\n---------------\nYear: 2015\nMake: Ford\nModel: Mustang\nBody Type: Coupe\nVIN: 1FA6P8TH5F5123456\nCondition Before Loss: Running condition reported\n\nCLAIM TYPE: Auto - Total Loss\nESTIMATE AMOUNT: $18,000.00\n\nFRAUD INDICATORS IN DOCUMENT:\n- Inconsistent statements from claimant\n- Staged appearance of loss\n- Suspicious circumstances noted\n\nCLAIM REFERENCE: CLM-2026-FNL-009012\n\nSTATUS: Red Flag - Requires Investigation"
+    },
+    "missingFields": [],
+    "fraudIndicators": [
+      "fraud",
+      "inconsistent",
+      "staged",
+      "suspicious"
+    ],
+    "recommendedRoute": "INVESTIGATION_FLAG",
+    "reasoning": "Potential fraud indicators detected: fraud, inconsistent, staged, suspicious"
+  },
+  {
+    "status": "SUCCESS",
+    "document_path": "sample_documents/claim_sample_004.txt",
+    "extractedFields": {
+      "policy_number": "POL-2024-003456",
+      "policyholder_name": "Angela Louise Brooks",
+      "incident_date": "02/07/2026",
+      "incident_location": "Retail Shopping Center Parking Lot",
+      "asset_type": "struck from behind by delivery truck. Claimant and claimant's family members sustained bodily injuries including whiplash and neck strain. Three passengers transported to Cedar Rapids Medical Center for evaluation.",
+      "vehicle_vin": "4S4BSANC1L3123456",
+      "claim_type": "Auto Collision with Bodily Injury",
+      "estimated_damage": "12,500.00",
+      "accident_description": "OF ACCIDENT:\nMulti-vehicle collision in retail parking lot. Insured vehicle struck from behind by delivery truck. Claimant and claimant's family members sustained bodily injuries including whiplash and neck strain. Three passengers transported to Cedar Rapids Medical Center for evaluation.\n\nINSURED VEHICLE\n---------------\nYear: 2020\nMake: Subaru\nModel: Outback\nVIN: 4S4BSANC1L3123456\n\nCLAIM TYPE: Auto Collision with Bodily Injury\nINJURED PARTIES: 3 (Claimant and 2 passengers)\n\nINJURY DETAILS:\n- Claimant: Whiplash, neck strain\n- Passenger 1: Whiplash, back strain\n- Passenger 2: Minor contusions\n\nESTIMATE AMOUNT: $12,500.00 (Vehicle Damage Only)\n\nMEDICAL CLAIM EXPECTED: Yes, estimated $35,000-$50,000\n\nCLAIM REFERENCE: CLM-2026-FNL-003456\n\nURGENT ACTION REQUIRED: Injury claims require immediate specialist attention for medical review and coordination."
+    },
+    "missingFields": [],
+    "fraudIndicators": [],
+    "recommendedRoute": "SPECIALIST_QUEUE",
+    "reasoning": "Claim type requires specialist handling (injury/bodily harm involved)"
+  },
+  {
+    "status": "SUCCESS",
+    "document_path": "sample_documents/claim_sample_005.txt",
+    "extractedFields": {
+      "policy_number": "NOT",
+      "policyholder_name": "David Robert Patterson",
+      "incident_date": "02/08/2026",
+      "incident_location": "Highway 405",
+      "claim_type": "Auto Accident",
+      "estimated_damage": "6,800.00",
+      "accident_description": "OF ACCIDENT:\nVehicle involved in single-vehicle accident on highway.\n\nCLAIM TYPE: Auto Accident\nESTIMATE AMOUNT: $6,800.00\n\nCLAIM REFERENCE: CLM-2026-FNL-012345\n\nINCOMPLETE INFORMATION:\n- Policy Number: NOT PROVIDED\n- Time of Loss: NOT PROVIDED\n- Detailed Location/Address: INCOMPLETE\n- Vehicle Information: INCOMPLETE\n- Detailed Description: INSUFFICIENT"
+    },
+    "missingFields": [],
+    "fraudIndicators": [],
+    "recommendedRoute": "FAST_TRACK",
+    "reasoning": "Low damage amount ($6,800.00 < $25,000). Eligible for expedited processing."
+  }
+]
