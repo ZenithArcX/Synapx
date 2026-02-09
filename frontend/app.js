@@ -5,7 +5,7 @@ const API_URL = (() => {
   // If running on Render, use the Render backend URL
   if (window.location.hostname.includes('render.com')) {
     // Replace with your actual Render backend URL
-    return 'https://claims-api.onrender.com';
+    return 'https://claims-api-czuf.onrender.com';
   }
   // Otherwise use local development
   return 'http://127.0.0.1:5000';
